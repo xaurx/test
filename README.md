@@ -1,4 +1,4 @@
 # test
 
-![](https://github.com/xaurx/test/workflows/main/badge.svg)
+![CI](https://github.com/xaurx/test/workflows/CI/badge.svg?branch=master)
 
